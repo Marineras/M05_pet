@@ -1,6 +1,7 @@
 package pet;
 
 public class Main {
+    //Modificacio para ver si va al subir a github
     public static void main(String[] args) {
         Animal a1 = new Animal();
         seleccionarTipo(a1);
